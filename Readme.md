@@ -1,0 +1,4 @@
+--> Click on the start button to take the quiz
+--> Each question has a timer of 10 seconds 
+--> after the time is up or an option is selected the correct anwer will be shown
+-->At the end of the quiz the total score will be displayed with an option to retake the quiz
